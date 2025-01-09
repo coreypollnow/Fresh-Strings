@@ -10,7 +10,7 @@
         b) Scientific Research<br>
         c) Business<br>
         d) Psychology &amp; Human Behavior<br>
-        e) Tech &amp; Artificial Intelligence
+        e) Tech &amp; Artificial Intelligence<br><br>
     </div>
 
     <p>Mastery in any domain requires more than deliberate practice. It requires tacit knowledge—the kind of knowledge that can’t be captured through words alone. It’s the intuition you develop. The patterns you start to recognize. And the feel you get. This is where real expertise lies.</p>
@@ -18,11 +18,9 @@
     <h3 class="highlight-yellow">TACIT KNOWLEDGE</h3>
     <p>If you’ve ever wondered how the best players seem to make it look effortless—well that’s tacit knowledge in action. And if you’re curious about how to acquire this kind of expertise, you’re in the right place. Here's what you'll find at Fresh Strings:</p>
 
-    <ul>
-        <li>Quick sprints of creativity — Small, focused efforts can lead to significant breakthroughs.</li>
-        <li>Closing feedback loops — Not every attempt will be a success. But every attempt will teach us something.</li>
-        <li>Sharing personal findings — We are human only through the humanity of others. This comes from an Ubuntu, an African concept. “I am, because you are.”</li>
-    </ul>
+    <p style="margin-bottom: 10px;">Quick sprints of creativity — Small, focused efforts can lead to significant breakthroughs.</p>
+    <p style="margin-bottom: 10px;">Closing feedback loops — Not every attempt will be a success. But every attempt will teach us something.</p>
+    <p>Sharing personal findings — We are human only through the humanity of others. This comes from an Ubuntu, an African concept. “I am, because you are.”</p>
 
     <p>Time is our most valuable asset. Thank you for choosing to spend a part of your day with me. Let’s make every moment count.</p>
 
@@ -37,7 +35,7 @@
 }
 
 /* Indent list items */
-.indented-list ul {
+.indented-list {
     padding-left: 60px;
 }
 </style>
