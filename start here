@@ -1,0 +1,43 @@
+<div class="landing-page-content">
+    <h3 class="highlight-yellow">FRESH STRINGS IS FOR YOU. THE TENNIS PLAYER.</h3>
+    <p>My vision is to build connections with players eager to accelerate personal growth on and off the court from research and practice. Life is an experiment. It’s about understanding the hidden layers and fine details that go beyond what you see on the surface.</p>
+
+    <p>When I first scribbled the phrase, “Creating and building will set you free” in my sketchbook, I wasn’t thinking about tennis. I was reflecting on something deeper. A mindset that has shaped my approach to learning and personal growth. It’s the idea that freedom comes from mastery, and mastery comes from doing and creating.</p>
+
+    <p>Fresh Strings is built on this belief. And it’s a place to apply this principle across a range of topics that aren’t typically associated with tennis:</p>
+    <div class="indented-list" style="padding-left: 60px;">
+        a) Health &amp; Wellness<br>
+        b) Scientific Research<br>
+        c) Business<br>
+        d) Psychology &amp; Human Behavior<br>
+        e) Tech &amp; Artificial Intelligence
+    </div>
+
+    <p>Mastery in any domain requires more than deliberate practice. It requires tacit knowledge—the kind of knowledge that can’t be captured through words alone. It’s the intuition you develop. The patterns you start to recognize. And the feel you get. This is where real expertise lies.</p>
+
+    <h3 class="highlight-yellow">TACIT KNOWLEDGE</h3>
+    <p>If you’ve ever wondered how the best players seem to make it look effortless—well that’s tacit knowledge in action. And if you’re curious about how to acquire this kind of expertise, you’re in the right place. Here's what you'll find at Fresh Strings:</p>
+
+    <ul>
+        <li>Quick sprints of creativity — Small, focused efforts can lead to significant breakthroughs.</li>
+        <li>Closing feedback loops — Not every attempt will be a success. But every attempt will teach us something.</li>
+        <li>Sharing personal findings — We are human only through the humanity of others. This comes from an Ubuntu, an African concept. “I am, because you are.”</li>
+    </ul>
+
+    <p>Time is our most valuable asset. Thank you for choosing to spend a part of your day with me. Let’s make every moment count.</p>
+
+    <p>Cheers,</p>
+    <p>Corey Pollnow</p>
+</div>
+
+<style>
+/* Make specific text yellow */
+.highlight-yellow {
+    color: #FFD700;
+}
+
+/* Indent list items */
+.indented-list ul {
+    padding-left: 60px;
+}
+</style>
